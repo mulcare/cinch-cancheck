@@ -8,7 +8,7 @@
 monitor a channel for the #cancheck hashtag, grab an included jpg/png url from
 the message, then compress, store, and make public that image.
 
-Currently being used to capture images of beers being consumed my channel
+Currently being used to capture images of beers being consumed by channel
 members. A low-fi Untappd, essentially.
 
 While the need for this is probably small beyond my personal use, it could
