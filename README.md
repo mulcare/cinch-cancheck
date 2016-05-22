@@ -1,6 +1,6 @@
 # \#cancheck - a #hashtag and image capture plugin for Cinch
 
-![Crushed Can][http://butt.es.s3.amazonaws.com/Mn7bhG.png]
+![Crushed Can](http://butt.es.s3.amazonaws.com/Mn7bhG.png)
 
 ## Description
 
