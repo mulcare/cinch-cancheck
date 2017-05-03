@@ -199,7 +199,7 @@ class Cinch::CanCheck
       tinify(@can_url)
       db_write(Time.now.strftime("%Y-%m-%d %I:%M%P"), m.user.nick, @image_on_s3.location)
       db_refresh
-      m.reply "can processed. cheers 🍻 . | #{@cancheck_public_url}"
+      m.reply "can processed. cheers 🍻 | #{@cancheck_public_url}"
     rescue NoUrlError  
       m.reply "#{m.user.nick}: no cancheck image detected"
     rescue ExtError
